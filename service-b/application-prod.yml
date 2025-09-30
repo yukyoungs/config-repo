@@ -1,2 +1,5 @@
 service:
- name: test service for Production B
+  name: "202135983 CSE song yukyeong"
+logging:
+  level:
+    root: WARN
