@@ -1,5 +1,2 @@
 service:
-  name: "202135983 CSE song yukyeong"
-logging:
-  level:
-    root: WARN
+ name: 202135983 CSE song yukyeong
